@@ -1,0 +1,10 @@
+# **Python projects**
+
+This page contains the following project related to health context.
+Please take a look.
+
+- [Project 1: Impacts of achieving full COVID-19 vaccination status](Project_1.ipynb)
+- [Project 2: Relation between class size and the the percentage of students who received the required amount of PE instruction](Project2.ipynb)
+- [Project 3: Relationship Between Class Size and the Percentage of Students Receiving the Required Amount of PE Instruction](Project3.ipynb)
+
+Navigate using the sidebar or the links above.
